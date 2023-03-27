@@ -1,5 +1,5 @@
 ### GET REQUEST
-GET http://localhost:8080
+GET http://localhost:8080/data
 
 
 ### POST REQUEST
@@ -18,4 +18,4 @@ content-type: application/json
 }
 
 ### DELETE REQUEST
-DELETE http://localhost:8080
+DELETE http://localhost:8080/data
